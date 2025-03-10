@@ -18,4 +18,4 @@ Note: By default, the synthesis of TAGs from glucose is maximized, assuming a sp
 
 - **The neutral model** built in JSON format (Neutral MODEL DSM4305.json) is presented in this repository. This version does not include any objective function for TAG maximization or substrate uptake constraints used in this work. Additionally, the corresponding map (Neutral Core Model Map.json) is also provided. This model can be used to evaluate other substrates by loading both the JSON model and the map into Escher (https://sbrg.github.io/escher-fba/#/).
 Note: To perform this analysis, both files must be uploaded into Escher, and the desired TAG synthesis function can be maximized by setting the appropriate uptake rate for the chosen substrate.
-- **Maps folder** contains the metabolic flux distribution maps 
+- **Maps folder** contains the metabolic flux distribution maps for TAG accumulation for each substrate evaluated in this study.
