@@ -1,3 +1,5 @@
+This is the companyon repository for:
+
 *Rhodococcus opacus*  DSM 43205 as a bacterial chassis for triacylglycerols accumulation using carbon dioxide, hydrogen, and derived organic substrates derived.
 
 Blanca Araya<sup>1</sup>, Paz Torres-Praderio<sup>1</sup>, Raúl Conejeros<sup>2</sup>, Alberto Vergara-Fernández<sup>1</sup>, Felipe Scott<sup>1,*</sup> 
