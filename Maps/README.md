@@ -8,7 +8,7 @@ This folder contains the maps obtained in Escher (.svg) after simulating TAG acc
 - **Valeric Acid**: The lower bound for valeric acid (Valerate + proton) uptake was set to -1.12 mmol/gCDW·h, and the upper bound to 0, while the TAG-ValericAcid reaction was maximized.
 - **Knallgas**: The lower bound for hydrogen uptake was set to -21.93 mmol/gCDW·h and the upper bound to 0, while the TAG-Knallgas reaction was maximized.
 - **Methanol RuMP**: The lower bound for methanol uptake was set to -5.36 mmol/gCDW·h and the upper bound to 0, while the TAG-Methanol reaction was maximized. The reactions associated with formaldehyde assimilation through the Serine pathway and dissimilation were deactivated.
-- **Methanol Serine Pathway (SP)**: The lower bound for methanol uptake was set to -5.36 mmol/gCDW·h and the upper bound to 0, while the TAG-Methanol reaction was maximized. The reaction associated with RuMP was deactivated.
+- **Methanol (CBB-SP)**: The lower bound for methanol uptake was set to -5.36 mmol/gCDW·h and the upper bound to 0, while the TAG-Methanol reaction was maximized. The reaction associated with RuMP was deactivated.
 
 
 
