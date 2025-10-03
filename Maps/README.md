@@ -7,6 +7,7 @@ This folder contains the maps obtained in Escher (.svg) after simulating TAG acc
 - **Butyric Acid**: The lower bound for butyric acid (Butanoate + proton) uptake was set to -1.79 mmol/gCDW·h, and the upper bound to 0, while the TAG-ButiricAcid reaction was maximized.
 - **Valeric Acid**: The lower bound for valeric acid (Valerate + proton) uptake was set to -1.12 mmol/gCDW·h, and the upper bound to 0, while the TAG-ValericAcid reaction was maximized.
 - **Knallgas**: The lower bound for hydrogen uptake was set to -21.93 mmol/gCDW·h and the upper bound to 0, while the TAG-Knallgas reaction was maximized.
+- **Knallgas-XFPK-STH**: The lower bound for hydrogen uptake was set to -21.93 mmol/gCDW·h and the upper bound to 0, while the TAG-Knallgas reaction was maximized. Parsimonious FBA, minimizing the sum of fluxes, was applied to avoid a loop between XFPK1/2. Transhydrogenases are active (-1000 to 1000 mmol gCDW-1·h-1)
 - **Methanol RuMP**: The lower bound for methanol uptake was set to -5.36 mmol/gCDW·h and the upper bound to 0, while the TAG-Methanol reaction was maximized. The reactions associated with formaldehyde assimilation through the Serine pathway and dissimilation were deactivated.
 - **Methanol (CBB-SP)**: The lower bound for methanol uptake was set to -5.36 mmol/gCDW·h and the upper bound to 0, while the TAG-Methanol reaction was maximized. The reaction associated with RuMP was deactivated.
 
